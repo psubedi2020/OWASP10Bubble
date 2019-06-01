@@ -7,7 +7,7 @@ module.exports = React.createClass ({
 		return (
 			<div>
 				<Nav />
-				<h1>Relative Size of disasters caused by OWASP Ten Volunerbilities, as of 2017</h1>
+				<h1>Relative Size of disasters caused by OWASP Ten Vulnerabilities, as of 2017</h1>
 				<h3>Visualization prepared by Prakash Subedi using React and D3 libraries.</h3> 
 				{this.props.children}
 				
