@@ -100,18 +100,17 @@ module.exports = {
 	     ]
 	    },
 
-	    {"name": "IValueProxy", "size": 874},
 	    {
 	     "name": "math",
 	     "children": [
-	  
+            	  
 	     ]
 	    },
 
 	    {
 	     "name": "palette",
 	     "children": [
-	   
+	        
 
 	     ]
 	    },
@@ -130,7 +129,8 @@ module.exports = {
 	    {
 	     "name": "controls",
 	     "children": [
-	
+		    {"name": "Other", "size": 200000}
+
 	     ]
 	    },
 	    {
